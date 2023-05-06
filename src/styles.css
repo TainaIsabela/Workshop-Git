@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+h1 {
+  font-size: 60px;
+}
