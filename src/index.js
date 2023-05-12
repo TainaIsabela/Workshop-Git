@@ -6,7 +6,7 @@ import "./styles.css";
 function App() {
   return (
     <div className="App">
-      <h1>1º Fase Concluída</h1>
+      <h1>Anthony Muniz Prado de Oliveira</h1>
       <Confetti />
     </div>
   );
